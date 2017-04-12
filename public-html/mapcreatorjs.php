@@ -1,5 +1,8 @@
-its a simple map creator for 2d maps, also this tool exports data into csv format.
 <body style="background-color:#d00;">
+  <meta charset="utf-8">
+  <meta name="description" content="its a simple map creator for 2d maps, also this tool exports data into csv format.">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript,CSV,Map,creator,js">
+  <meta name="author" content="dangakun">
 <style type="text/css">
 @font-face {
     font-family: saxMono;
